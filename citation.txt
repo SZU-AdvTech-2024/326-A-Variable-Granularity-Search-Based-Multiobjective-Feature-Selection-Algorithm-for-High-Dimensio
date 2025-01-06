@@ -1,8 +1,6 @@
 @article{REPO326,
     author = "Cheng, Fan and Cui, Junjie and Wang, Qijun and Zhang, Lei",
-    doi = "10.1109/TEVC.2022.3160458",
     journal = "IEEE Transactions on Evolutionary Computation",
-    keywords = "Feature extraction;Signal processing algorithms;Heuristic algorithms;Particle swarm optimization;Optimization;Genetic algorithms;Encoding;Evolutionary algorithm (EA);feature selection (FS);high-dimensional data classification;multiobjective optimization",
     number = "2",
     pages = "266-280",
     title = "{A Variable Granularity Search-Based Multiobjective Feature Selection Algorithm for High-Dimensional Data Classification}",
